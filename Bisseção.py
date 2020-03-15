@@ -132,4 +132,4 @@ while True:
     if cont == 30:
         break
     print('{:<10}  {:<65}  {:<65}'.format(*linha))
-#print(r_aprox)
+print(r_aprox)
